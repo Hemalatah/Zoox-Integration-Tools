@@ -14,7 +14,7 @@ To run the app...
 Make sure you installed node and npm in your machine.
 
 Git clone the repo
-#### $ git clone https://github.com/Hemalatah/Neighborhood-Map.git
+#### $ git clone https://github.com/Hemalatah/Zoox-Integration-Tools.git
 
 get the repo as your current working directory in your terminal
 #### $ cd 'path to project directory'
