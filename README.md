@@ -5,10 +5,10 @@ This project gives a basic learning of how the fetch the public domain data, par
 
 The key features of the project are:
 
-Fetch API with error handling
-jQuery
-Basic Javascript Features
-Gulp build tools
+- Fetch API with error handling
+- jQuery
+- Basic Javascript Features
+- Gulp build tools
 
 To run the app...
 Make sure you installed node and npm in your machine.
