@@ -14,12 +14,12 @@ To run the app...
 Make sure you installed node and npm in your machine.
 
 Git clone the repo
-# $ git clone https://github.com/Hemalatah/Neighborhood-Map.git
+#### $ git clone https://github.com/Hemalatah/Neighborhood-Map.git
 
 get the repo as your current working directory in your terminal
-# $ cd 'path to project directory'
+#### $ cd 'path to project directory'
 run the index file in the dist folder by typing gulp (As the project is equipped with gulp work flow)
-# $ gulp
+#### $ gulp
 This will open up the browser window by executing the index.html with app.css, app.js and also some image files if available
 
 Summary
