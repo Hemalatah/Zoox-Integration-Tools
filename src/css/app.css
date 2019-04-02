@@ -1,0 +1,32 @@
+body {
+    padding: 50px;
+}
+#title {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c3c3c3;
+}
+#ajax-content li {
+    cursor: pointer;
+}
+ul {
+    list-style-type: square;
+}
+.list {
+    padding: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.glyphicon-remove {
+    margin-left: -70px;
+    cursor: pointer;
+}
+input {
+    margin-left: 40px;
+    width: 520px;
+    margin: 50px;
+}
+.box {
+    border: 1px solid grey;
+    padding: 5px;
+}
