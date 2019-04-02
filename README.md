@@ -9,6 +9,7 @@ The key features of the project are:
 - jQuery
 - Basic Javascript Features
 - Gulp build tools
+![alt text](https://github.com/Hemalatah/Zoox-Integration-Tools/blob/master/Screen%20Shot%202019-04-02%20at%2011.33.51%20AM.png)
 
 To run the app...
 Make sure you installed node and npm in your machine.
