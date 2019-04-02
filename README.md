@@ -22,5 +22,5 @@ run the index file in the dist folder by typing gulp (As the project is equipped
 #### $ gulp
 This will open up the browser window by executing the index.html with app.css, app.js and also some image files if available
 
-Summary
+Summary:
 This projects helps to give the overview on how to do Asynchronous requests and also parse the response.# ZOOX-Integration-Tools
