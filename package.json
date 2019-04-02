@@ -1,0 +1,30 @@
+{
+  "name": "Hemalatah",
+  "version": "1.0.0",
+  "description": "Basic Integartion Tools",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemalatah",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hemalatah/Zoox-Integration-Tools.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-cssmin": "^0.1.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-usemin": "^0.3.23"
+  },
+  "keywords": [
+    "Zoox-Integration-Tools"
+  ]
+}
